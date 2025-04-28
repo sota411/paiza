@@ -1,9 +1,7 @@
 import sys
 
 def main():
-    lines = sys.stdin.read().splitlines()
-    
+    # ここに処理を記述する
 
 if __name__ == "__main__":
     main()
-
